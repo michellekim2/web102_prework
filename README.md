@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/hvH6ogf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+imgur link: https://i.imgur.com/hvH6ogf.gif
 
 ![Video Walkthrough](codepath_web102_michellekim.gif)
 

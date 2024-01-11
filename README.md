@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/hvH6ogf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Video Walkthrough](https://i.imgur.com/hvH6ogf.gif)
+![Video Walkthrough](codepath_web102_michellekim.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... Kap 
